@@ -4,6 +4,7 @@ npm install
 (Assumes user has nodemon)
 
 /*--------------TEST QUERIES--------------------------
+
 query oneRestaurant {
   restaurant(id: 3) {
     id
@@ -60,4 +61,5 @@ mutation editRestaurant {
     }
 	}
 }
+
 ------------------------------------------------------*/
